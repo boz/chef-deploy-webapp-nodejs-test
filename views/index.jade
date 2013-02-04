@@ -3,3 +3,11 @@ extends layout
 block content
   h1= title
   p Success!
+
+  p Config:
+  pre
+    = config
+  - if(redisInfo)
+    p Redis:
+    pre
+      = redisInfo

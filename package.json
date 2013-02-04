@@ -9,6 +9,7 @@
     "express": "3.0.0rc2",
     "jade": "*",
     "less-middleware": "*",
+    "redis": "*",
     "config":"git://github.com/boz/node-config.git"
   }
 }
