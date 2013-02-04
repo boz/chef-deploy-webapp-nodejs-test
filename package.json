@@ -8,6 +8,7 @@
   "dependencies": {
     "express": "3.0.0rc2",
     "jade": "*",
-    "less-middleware": "*"
+    "less-middleware": "*",
+    "config":"git://github.com/boz/node-config.git"
   }
 }
