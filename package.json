@@ -7,9 +7,9 @@
   },
   "dependencies": {
     "express": "3.0.0rc2",
-    "jade": "*",
-    "less-middleware": "*",
-    "redis": "*",
+    "jade": "1.3.0",
+    "less-middleware": "0.1.15",
+    "redis": "0.10.1",
     "config":"git://github.com/boz/node-config.git"
   }
 }
